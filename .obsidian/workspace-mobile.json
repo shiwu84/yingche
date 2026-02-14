@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 通理/Arch Linux.md",
+                "file": "03 模板/原子笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arch Linux"
+              "title": "原子笔记"
             }
           }
         ]
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "02 通理/Arch Linux.md",
+            "file": "03 模板/原子笔记.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,15 +193,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01 化思/现代.md",
-    "02 通理/Arch Linux.md",
-    "01 化思/多功能.md",
-    "01 化思/用户中心.md",
-    "01 化思/简单.md",
-    "01 化思/实用.md",
-    "00 入物",
     "03 模板/内容地图.md",
-    "01 化思/KISS原则.md",
+    "02 通理/Arch Linux.md",
+    "01 化思/关于Arch Linux",
+    "01 化思/关于Arch Linux/现代.md",
+    "01 化思/关于Arch Linux/多功能.md",
+    "01 化思/关于Arch Linux/用户中心.md",
+    "01 化思/关于Arch Linux/简单.md",
+    "01 化思/关于Arch Linux/实用.md",
+    "00 入物",
+    "01 化思/关于Arch Linux/KISS原则.md",
     "主页.md",
     "03 模板/原子笔记.md",
     "Arch Linux用户.md",
