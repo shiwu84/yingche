@@ -11,24 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 模板/原子笔记.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "原子笔记"
+              "title": "新标签页"
             }
           }
         ]
@@ -122,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "03 模板/原子笔记.md",
+            "file": "主页.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,8 +156,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       }
     ],
@@ -193,6 +179,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "主页.md",
+    "03 模板/原子笔记.md",
     "03 模板/内容地图.md",
     "02 通理/Arch Linux.md",
     "01 化思/关于Arch Linux",
@@ -203,8 +191,6 @@
     "01 化思/关于Arch Linux/实用.md",
     "00 入物",
     "01 化思/关于Arch Linux/KISS原则.md",
-    "主页.md",
-    "03 模板/原子笔记.md",
     "Arch Linux用户.md",
     "01 化思/ArchWiki介绍.md",
     "00 入物",
