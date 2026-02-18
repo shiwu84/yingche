@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安装与引导.md",
+                "file": "00 入物/Clippings/Agent Skills 终极指南：入门、精通、预测.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "安装与引导"
+              "title": "Agent Skills 终极指南：入门、精通、预测"
             }
           }
         ]
@@ -187,13 +187,22 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02 通理/Arch Linux.md",
+    "00 入物/Opencode/how-to-get-rich-visual.md",
+    "00 入物/Clippings/Agent Skills 终极指南：入门、精通、预测.md",
+    "00 入物/Opencode/别再用提示词去AI味了.animate.excalidraw.md",
+    "00 入物/Opencode/别再用提示词去AI味了.animate.excalidraw",
     "安装与引导.md",
+    "00 入物/Opencode/how-to-get-rich.md",
+    "00 入物/Opencode",
+    "00 入物/Clippings",
+    "00 入物",
+    "02 通理/Arch Linux.md",
     "主页.md",
     "03 模板/原子笔记.md",
     "03 模板/内容地图.md",
@@ -203,11 +212,9 @@
     "01 化思/关于Arch Linux/用户中心.md",
     "01 化思/关于Arch Linux/简单.md",
     "01 化思/关于Arch Linux/实用.md",
-    "00 入物",
     "01 化思/关于Arch Linux/KISS原则.md",
     "Arch Linux用户.md",
     "01 化思/ArchWiki介绍.md",
-    "00 入物",
     "Man Page.md"
   ]
 }
