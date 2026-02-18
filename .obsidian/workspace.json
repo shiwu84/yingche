@@ -35,24 +35,12 @@
             "id": "3f64b34414a72699",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "00 入物/Clippings/Agent Skills 终极指南：入门、精通、预测.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "00 入物/Opencode/别再用提示词去AI味了.animate.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "Agent Skills 终极指南：入门、精通、预测"
+              "icon": "excalidraw-icon",
+              "title": "别再用提示词去AI味了.animate"
             }
           }
         ],
@@ -241,10 +229,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70cdbc92ce01954a",
+  "active": "41d550975822eca8",
   "lastOpenFiles": [
-    "安装与引导.md",
+    "00 入物/Opencode/别再用提示词去AI味了.excalidraw.md",
+    "00 入物/Opencode/别再用提示词去AI味了.animate.excalidraw",
+    "00 入物/Opencode/how-to-get-rich.md",
+    "00 入物/Opencode/how-to-get-rich-visual.md",
+    "00 入物/Opencode/如何使用opencode进行原子笔记.md",
     "00 入物/Clippings/Agent Skills 终极指南：入门、精通、预测.md",
+    "00 入物/Opencode",
+    "安装与引导.md",
     "03 模板/内容地图.md",
     "02 通理/Arch Linux.md",
     "00 入物",
