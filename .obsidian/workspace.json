@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安装与引导.md",
-                "mode": "source",
+                "file": "00 入物/Clippings/Agent Skills 终极指南：入门、精通、预测.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "安装与引导"
+              "title": "Agent Skills 终极指南：入门、精通、预测"
             }
           }
         ],
@@ -229,6 +229,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -237,16 +238,15 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "workspaces:管理工作区布局": false,
-      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f64b34414a72699",
+  "active": "41d550975822eca8",
   "lastOpenFiles": [
-    "03 模板/内容地图.md",
-    "安装与引导.md",
-    "02 通理/Arch Linux.md",
     "00 入物/Clippings/Agent Skills 终极指南：入门、精通、预测.md",
+    "安装与引导.md",
+    "03 模板/内容地图.md",
+    "02 通理/Arch Linux.md",
     "00 入物",
     "00 入物/Clippings",
     "主页.md",
