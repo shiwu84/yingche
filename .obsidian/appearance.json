@@ -1,4 +1,6 @@
 {
   "cssTheme": "Composer",
-  "theme": "system"
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "accentColor": ""
 }

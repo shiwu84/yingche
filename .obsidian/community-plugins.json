@@ -2,5 +2,7 @@
   "obsidian-style-settings",
   "templater-obsidian",
   "calendar",
-  "obsidian-hider"
+  "obsidian-hider",
+  "custom-font-loader",
+  "obsidian-git"
 ]
