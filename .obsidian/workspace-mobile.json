@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 入物/Clippings/Agent Skills 终极指南：入门、精通、预测.md",
+                "file": "00 入物/OpenClaw/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Agent Skills 终极指南：入门、精通、预测"
+              "title": "README"
             }
           }
         ]
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "主页.md",
+            "file": "00 入物/OpenClaw/README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,14 +187,20 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "00 入物/Opencode/how-to-get-rich-visual.md",
+    "00 入物/OpenClaw/AI 研究/2026-02-20-新闻思维导图.canvas",
+    "00 入物/OpenClaw/AI 研究/2026-02-20-新闻概览.excalidraw.md",
+    "00 入物/OpenClaw/AI 研究/2026-02-20-新闻分类图.mermaid.md",
+    "00 入物/OpenClaw/README.md",
+    "00 入物/OpenClaw/临时收集/GitHub自动同步配置.md",
+    "00 入物/OpenClaw/临时收集/2026-02-20-测试笔记.md",
+    "00 入物/OpenClaw/技术新闻/2026-02-20-技术新闻日报.md",
     "00 入物/Clippings/Agent Skills 终极指南：入门、精通、预测.md",
+    "00 入物/Opencode/how-to-get-rich-visual.md",
     "00 入物/Opencode/别再用提示词去AI味了.animate.excalidraw.md",
     "00 入物/Opencode/别再用提示词去AI味了.animate.excalidraw",
     "安装与引导.md",
