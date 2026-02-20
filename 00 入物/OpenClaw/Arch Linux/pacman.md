@@ -391,8 +391,8 @@ sudo rm /var/lib/pacman/db.lck
 - [Pacman/Tips and tricks](https://wiki.archlinux.org/title/Pacman/Tips_and_tricks) - 更多实用技巧
 - [Pacman/Package signing](https://wiki.archlinux.org/title/Pacman/Package_signing) - 包签名
 - [Pacman/Pacnew and Pacsave](https://wiki.archlinux.org/title/Pacman/Pacnew_and_Pacsave) - 配置文件处理
-- [[Arch User Repository]] - AUR 使用（待创建）
-- [[System maintenance]] - 系统维护（待创建）
+- [Arch User Repository](https://wiki.archlinux.org/title/Arch_User_Repository) - AUR 使用
+- [System maintenance](https://wiki.archlinux.org/title/System_maintenance) - 系统维护
 - [Pacman 官方文档](https://pacman.archlinux.page/)
 - [pacman(8) man page](https://man.archlinux.org/man/pacman.8)
 
