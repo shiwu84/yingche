@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 入物/OpenClaw/README.md",
-                "mode": "source",
+                "file": "00 入物/OpenClaw/Arch Linux/pacman.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "pacman"
             }
           }
         ]
@@ -192,10 +192,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Arch User Repository.md",
+    "00 入物/OpenClaw/Arch Linux/pacman.md",
+    "Pacman/Tips and tricks.md",
+    "Pacman",
+    "00 入物/OpenClaw/README.md",
     "00 入物/OpenClaw/AI 研究/2026-02-20-新闻思维导图.canvas",
     "00 入物/OpenClaw/AI 研究/2026-02-20-新闻概览.excalidraw.md",
     "00 入物/OpenClaw/AI 研究/2026-02-20-新闻分类图.mermaid.md",
-    "00 入物/OpenClaw/README.md",
     "00 入物/OpenClaw/临时收集/GitHub自动同步配置.md",
     "00 入物/OpenClaw/临时收集/2026-02-20-测试笔记.md",
     "00 入物/OpenClaw/技术新闻/2026-02-20-技术新闻日报.md",
@@ -220,7 +224,6 @@
     "01 化思/关于Arch Linux/实用.md",
     "01 化思/关于Arch Linux/KISS原则.md",
     "Arch Linux用户.md",
-    "01 化思/ArchWiki介绍.md",
-    "Man Page.md"
+    "01 化思/ArchWiki介绍.md"
   ]
 }
