@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 入物/Clippings/Agent Skills 终极指南：入门、精通、预测.md",
-                "mode": "preview",
+                "file": "00 入物/OpenClaw/AI 研究/2026-02-20-新闻分类图.mermaid.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,23 +28,38 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Agent Skills 终极指南：入门、精通、预测"
+              "title": "2026-02-20-新闻分类图.mermaid"
             }
           },
           {
-            "id": "3f64b34414a72699",
+            "id": "1d6d899c144830e3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "webviewer",
               "state": {
-                "file": "00 入物/Opencode/别再用提示词去AI味了.animate.excalidraw"
+                "url": "https://www.prnewswire.com/news-releases/linux-foundation-research-finds-open-source-is-key-to-driving-indias-ai-market-302688143.html",
+                "title": "Linux Foundation Research Finds Open Source Is Key To Driving India's AI Market",
+                "mode": "webview"
               },
-              "icon": "excalidraw-icon",
-              "title": "别再用提示词去AI味了.animate"
+              "icon": "globe-2",
+              "title": "Linux Foundation Research Finds Open Source Is Key To Driving India's AI Market"
+            }
+          },
+          {
+            "id": "ed10cdbdbe74db88",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.linuxtoday.com/blog/5-must-try-ai-tools-for-linux-users-in-2026/",
+                "title": "5 Must-Try AI Tools for Linux Users in 2026",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "5 Must-Try AI Tools for Linux Users in 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,23 +212,14 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "70cdbc92ce01954a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,40 +231,50 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "workspaces:管理工作区布局": false,
-      "obsidian-git:Open Git source control": false
+      "workspaces:管理工作区布局": false
     }
   },
   "active": "41d550975822eca8",
   "lastOpenFiles": [
-    "00 入物/Opencode/别再用提示词去AI味了.excalidraw.md",
-    "00 入物/Opencode/别再用提示词去AI味了.animate.excalidraw",
+    "00 入物/OpenClaw/临时收集/Obsidian-Skills-配置.md",
+    "00 入物/OpenClaw/临时收集/2026-02-20-可视化Skills全量测试报告.md",
+    "00 入物/OpenClaw/AI 研究/2026-02-20-新闻概览.excalidraw.md",
+    "00 入物/OpenClaw/AI 研究/2026-02-20-新闻思维导图.canvas",
+    "00 入物/OpenClaw/README.md",
+    "00 入物/OpenClaw/OpenClaw 配置/Obsidian-Skills-配置.md",
+    "00 入物/OpenClaw/OpenClaw 配置/2026-02-20-可视化Skills优化记录.md",
+    "00 入物/OpenClaw/OpenClaw 配置/2026-02-20-可视化Skills全量测试报告.md",
+    "00 入物/OpenClaw/AI 研究/2026-02-20-新闻分类图.mermaid.md",
+    "00 入物/OpenClaw/临时收集/2026-02-20-测试笔记.md",
+    "00 入物.md",
+    "00 入物/OpenClaw/临时收集/2026-02-20-可视化技能测试.md",
+    "00 入物/OpenClaw/技术新闻/2026-02-20-技术新闻日报.md",
+    "00 入物/Opencode/Arch Linux/101-linux-commands-dark.pdf",
+    "00 入物/OpenClaw/OpenClaw 配置",
+    "00 入物/OpenClaw/Arch Linux",
+    "00 入物/OpenClaw/AI 研究",
+    "00 入物/OpenClaw/临时收集",
+    "00 入物/OpenClaw/代码片段",
+    "00 入物/OpenClaw/配置",
+    "00 入物/OpenClaw/OpenClaw",
+    "00 入物/OpenClaw/Linux",
+    "00 入物/OpenClaw/Arch",
+    "00 入物/Opencode/Arch Linux/NotebookLM Mind Map.png",
+    "00 入物/Opencode/别再用提示词去AI味了.animate.excalidraw.md",
     "00 入物/Opencode/how-to-get-rich.md",
-    "00 入物/Opencode/how-to-get-rich-visual.md",
-    "00 入物/Opencode/如何使用opencode进行原子笔记.md",
-    "00 入物/Clippings/Agent Skills 终极指南：入门、精通、预测.md",
-    "00 入物/Opencode",
     "安装与引导.md",
-    "03 模板/内容地图.md",
-    "02 通理/Arch Linux.md",
-    "00 入物",
-    "00 入物/Clippings",
-    "主页.md",
-    "01 化思/ArchWiki介绍.md",
-    "Man Page.md",
-    "未命名 1.md",
-    "未命名.md",
-    "01 化思/未命名.md",
-    "02 通理/MOC -  Arch Linux.md",
-    "03 模板/原子笔记.md",
-    "01 化思/Arch Linux/Arch Linux.md",
-    "01 化思/Arch Linux",
-    "01 化思/命令行",
-    "欢迎.md",
-    "00 入物/未命名.md",
-    "03 模板",
-    "02 通理",
-    "01 化思",
-    "00 入物"
+    "00 入物/Opencode/notes/Vibe Coding 方法论.md",
+    "00 入物/Opencode/notes/Prompt 模板库.md",
+    "00 入物/Opencode/notes/OpenCode 知识网络.canvas",
+    "00 入物/Opencode/notes/OpenCode 使用笔记.md",
+    "00 入物/Opencode/notes/AI 工具对比.md",
+    "00 入物/Opencode/notes/Obsidian 可视化图表指南.md",
+    "00 入物/Opencode/notes/内容创作工作流.md",
+    "00 入物/Opencode/notes/模型配置指南.md",
+    "00 入物/Opencode/notes/代码开发工作流.md",
+    "00 入物/Opencode/notes/00-索引.md",
+    "00 入物/Opencode/obsidian/00-OpenCode 学习笔记首页.md",
+    "00 入物/Opencode/obsidian/00-OpenCode 核心概念索引.md",
+    "00 入物/Opencode/obsidian-notes/OpenCode 学习路径.canvas"
   ]
 }

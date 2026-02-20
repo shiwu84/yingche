@@ -3,5 +3,6 @@
   "templater-obsidian",
   "calendar",
   "obsidian-hider",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "custom-font-loader"
 ]
