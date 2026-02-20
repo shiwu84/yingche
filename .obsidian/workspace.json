@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 入物/OpenClaw/AI 研究/2026-02-20-新闻分类图.mermaid.md",
-                "mode": "source",
+                "file": "00 入物/OpenClaw/Arch Linux/Systemd-基本概念.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-20-新闻分类图.mermaid"
+              "title": "Systemd-基本概念"
             }
           },
           {
@@ -212,14 +212,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "6972bb1394b82417",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,11 +240,23 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41d550975822eca8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00 入物/OpenClaw/Arch Linux/SSH-安全加固.md",
+    "00 入物/OpenClaw/Arch Linux/SSH-密钥认证.md",
+    "00 入物/OpenClaw/Arch Linux/SSH-安装配置.md",
+    "00 入物/OpenClaw/Arch Linux/SSH-基本概念.md",
+    "00 入物/OpenClaw/Arch Linux/SSH-MOC.md",
+    "00 入物/OpenClaw/Arch Linux/Systemd-MOC.md",
+    "00 入物/OpenClaw/AI 研究/2026-02-20-新闻分类图.mermaid.md",
+    "Pacman/Tips and tricks.md",
+    "Pacman",
+    "Arch User Repository.md",
+    "00 入物/OpenClaw/Arch Linux/pacman.md",
     "00 入物/OpenClaw/临时收集/渗透测试知识-2026-02-20.md",
     "00 入物/OpenClaw/临时收集/GitHub自动同步配置.md",
     "00 入物/OpenClaw/临时收集/Obsidian-Skills-配置.md",
@@ -246,7 +267,6 @@
     "00 入物/OpenClaw/OpenClaw 配置/Obsidian-Skills-配置.md",
     "00 入物/OpenClaw/OpenClaw 配置/2026-02-20-可视化Skills优化记录.md",
     "00 入物/OpenClaw/OpenClaw 配置/2026-02-20-可视化Skills全量测试报告.md",
-    "00 入物/OpenClaw/AI 研究/2026-02-20-新闻分类图.mermaid.md",
     "00 入物/OpenClaw/临时收集/2026-02-20-测试笔记.md",
     "00 入物.md",
     "00 入物/OpenClaw/临时收集/2026-02-20-可视化技能测试.md",
@@ -260,21 +280,11 @@
     "00 入物/OpenClaw/配置",
     "00 入物/OpenClaw/OpenClaw",
     "00 入物/OpenClaw/Linux",
-    "00 入物/OpenClaw/Arch",
     "00 入物/Opencode/Arch Linux/NotebookLM Mind Map.png",
     "00 入物/Opencode/别再用提示词去AI味了.animate.excalidraw.md",
     "00 入物/Opencode/how-to-get-rich.md",
     "安装与引导.md",
-    "00 入物/Opencode/notes/Vibe Coding 方法论.md",
-    "00 入物/Opencode/notes/Prompt 模板库.md",
     "00 入物/Opencode/notes/OpenCode 知识网络.canvas",
-    "00 入物/Opencode/notes/OpenCode 使用笔记.md",
-    "00 入物/Opencode/notes/AI 工具对比.md",
-    "00 入物/Opencode/notes/Obsidian 可视化图表指南.md",
-    "00 入物/Opencode/notes/内容创作工作流.md",
-    "00 入物/Opencode/notes/模型配置指南.md",
-    "00 入物/Opencode/notes/代码开发工作流.md",
-    "00 入物/Opencode/notes/00-索引.md",
     "00 入物/Opencode/obsidian-notes/OpenCode 学习路径.canvas"
   ]
 }
