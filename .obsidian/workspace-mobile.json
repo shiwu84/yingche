@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 入物/OpenClaw/Arch Linux/Systemd-基本概念.md",
+                "file": "00 入物/OpenClaw/ZeroClaw/ZeroClaw-常用命令.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Systemd-基本概念"
+              "title": "ZeroClaw-常用命令"
             }
           }
         ]
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00 入物/OpenClaw/README.md",
+            "file": "00 入物/OpenClaw/ZeroClaw/ZeroClaw-常用命令.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -192,6 +193,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00 入物/OpenClaw/ZeroClaw/ZeroClaw-MOC.md",
+    "00 入物/OpenClaw/ZeroClaw/ZeroClaw-认证机制.md",
+    "00 入物/OpenClaw/ZeroClaw/ZeroClaw-架构设计.md",
+    "00 入物/OpenClaw/ZeroClaw/ZeroClaw-系统要求.md",
+    "00 入物/OpenClaw/ZeroClaw/ZeroClaw-快速开始.md",
+    "00 入物/OpenClaw/Arch Linux/Systemd-基本概念.md",
     "00 入物/OpenClaw/Arch Linux/Systemd-MOC.md",
     "SSH-文件传输.md",
     "00 入物/OpenClaw/Arch Linux/SSH-MOC.md",
@@ -214,16 +221,10 @@
     "00 入物/OpenClaw/临时收集/GitHub自动同步配置.md",
     "00 入物/OpenClaw/临时收集/2026-02-20-测试笔记.md",
     "00 入物/OpenClaw/技术新闻/2026-02-20-技术新闻日报.md",
-    "00 入物/Clippings/Agent Skills 终极指南：入门、精通、预测.md",
-    "00 入物/Opencode/how-to-get-rich-visual.md",
-    "00 入物/Opencode/别再用提示词去AI味了.animate.excalidraw.md",
     "00 入物/Opencode/别再用提示词去AI味了.animate.excalidraw",
-    "安装与引导.md",
-    "00 入物/Opencode/how-to-get-rich.md",
     "00 入物/Opencode",
     "00 入物/Clippings",
     "00 入物",
-    "02 通理/Arch Linux.md",
     "01 化思/关于Arch Linux"
   ]
 }
