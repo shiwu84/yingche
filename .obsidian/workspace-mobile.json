@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 入物/OpenClaw/ZeroClaw/ZeroClaw-完整配置指南.md",
+                "file": "00 入物/OpenClaw/ZeroClaw/配置/ZeroClaw-配置模板（中文注释版）.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ZeroClaw-完整配置指南"
+              "title": "ZeroClaw-配置模板（中文注释版）"
             }
           }
         ]
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00 入物/OpenClaw/ZeroClaw/ZeroClaw-完整配置指南.md",
+            "file": "00 入物/OpenClaw/ZeroClaw/配置/ZeroClaw-配置模板（中文注释版）.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,14 +193,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00 入物/OpenClaw/ZeroClaw/配置/ZeroClaw-核心配置详解.md",
+    "00 入物/OpenClaw/ZeroClaw/ZeroClaw-完整配置指南.md",
     "00 入物/OpenClaw/ZeroClaw/配置/ZeroClaw-配置模板（中文注释版）.md",
     "00 入物/OpenClaw/ZeroClaw/配置/ZeroClaw-通道配置详解.md",
-    "00 入物/OpenClaw/ZeroClaw/配置/ZeroClaw-核心配置详解.md",
     "00 入物/OpenClaw/ZeroClaw/配置/ZeroClaw-工具与安全配置详解.md",
     "00 入物/OpenClaw/ZeroClaw/配置/ZeroClaw-内存与存储配置详解.md",
     "00 入物/OpenClaw/ZeroClaw/配置/ZeroClaw-Agent 配置详解.md",
     "00 入物/OpenClaw/ZeroClaw/配置",
-    "00 入物/OpenClaw/ZeroClaw/ZeroClaw-完整配置指南.md",
     "00 入物/OpenClaw/ZeroClaw/ZeroClaw-MOC.md",
     "00 入物/OpenClaw/ZeroClaw/ZeroClaw-Agent 模式.md",
     "00 入物/OpenClaw/ZeroClaw/ZeroClaw-Daemon 模式.md",
