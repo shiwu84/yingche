@@ -18,9 +18,18 @@ aliases: [ZeroClaw 工具配置，ZeroClaw 安全配置]
 ### autonomy.level
 
 ```toml
+# --------------------------------
+# 自主级别配置
+# --------------------------------
 [autonomy]
-# 自主级别
-level = "supervised"  # readonly | supervised | full
+
+# 自主级别：控制 Agent 可以执行的操作范围
+# readonly   - 只读模式：仅允许读取类工具（file_read, web_search 等），禁止所有写操作
+# supervised - 监督模式（推荐）：允许所有工具，但中等风险操作需要用户审批
+# full       - 完全自主：允许所有工具，仅高风险操作被禁止
+# 
+# 安全建议：日常使用设为 supervised，可信环境可设为 full
+level = "supervised"
 ```
 
 ### 自主级别说明

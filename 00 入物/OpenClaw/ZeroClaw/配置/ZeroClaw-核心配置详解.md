@@ -64,14 +64,27 @@ zeroclaw config schema | jq '.properties'
 
 ```toml
 # ~/.zeroclaw/config.toml
+# ================================
+# ZeroClaw 核心配置文件
+# ================================
+
+# --------------------------------
+# 默认模型配置
+# --------------------------------
 
 # 默认提供者 ID
+# 可选值：openrouter, anthropic, openai, ollama, groq, deepseek, gemini 等
+# 完整列表见下文"内置提供者列表"
 default_provider = "openrouter"
 
 # 默认模型 ID
+# 格式：提供者/模型名 或 直接模型名
+# 常用模型：claude-sonnet-4-6, gpt-4o, llama-3-70b, qwen2.5-coder:32b
 default_model = "anthropic/claude-sonnet-4-6"
 
 # 模型温度（0.0 - 2.0）
+# 控制输出随机性：值越低越确定，值越高越有创意
+# 建议：代码生成 0.2, 日常对话 0.7, 创意写作 1.0+
 default_temperature = 0.7
 ```
 
