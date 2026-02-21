@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 入物/OpenClaw/Arch Linux/Pacman-升级系统.md",
-                "mode": "source",
+                "file": "00 入物/OpenClaw/Arch Linux/Systemd-基本概念.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pacman-升级系统"
+              "title": "Systemd-基本概念"
             }
           }
         ]
@@ -192,11 +192,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00 入物/OpenClaw/Arch Linux/Systemd-MOC.md",
+    "SSH-文件传输.md",
+    "00 入物/OpenClaw/Arch Linux/SSH-MOC.md",
+    "00 入物/OpenClaw/Arch Linux/Network-MOC.md",
+    "Network-网络启动.md",
+    "Network-无线网络.md",
+    "00 入物/OpenClaw/Arch Linux/Network-IP 地址配置.md",
+    "00 入物/OpenClaw/Arch Linux/Network-网络接口.md",
+    "00 入物/OpenClaw/AI 研究/2026-02-20-新闻思维导图.canvas",
+    "00 入物/OpenClaw/Arch Linux/Pacman-升级系统.md",
+    "Arch User Repository.md",
     "00 入物/OpenClaw/Arch Linux/Pacman-配置文件.md",
     "00 入物/OpenClaw/Arch Linux/Pacman-MOC.md",
-    "Arch User Repository.md",
     "00 入物/OpenClaw/Arch Linux/pacman.md",
-    "00 入物/OpenClaw/AI 研究/2026-02-20-新闻思维导图.canvas",
     "Pacman/Tips and tricks.md",
     "Pacman",
     "00 入物/OpenClaw/README.md",
@@ -215,15 +224,6 @@
     "00 入物/Clippings",
     "00 入物",
     "02 通理/Arch Linux.md",
-    "主页.md",
-    "03 模板/原子笔记.md",
-    "03 模板/内容地图.md",
-    "01 化思/关于Arch Linux",
-    "01 化思/关于Arch Linux/现代.md",
-    "01 化思/关于Arch Linux/多功能.md",
-    "01 化思/关于Arch Linux/用户中心.md",
-    "01 化思/关于Arch Linux/简单.md",
-    "01 化思/关于Arch Linux/实用.md",
-    "01 化思/关于Arch Linux/KISS原则.md"
+    "01 化思/关于Arch Linux"
   ]
 }
